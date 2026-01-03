@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TBD",
+    "description": "",
+    "home_page_url": "https://slashwq.github.io/blog",
+    "feed_url": "https://slashwq.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "William Quinn"
+    },
+    "items": [
+        {
+            "id": "https://slashwq.github.io/blog/lorem-ipsum.html",
+            "url": "https://slashwq.github.io/blog/lorem-ipsum.html",
+            "title": "Lorem Ipsum",
+            "summary": "Lorem ipsum dolor sit amet or something like that.",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet or something like that.\n  </p>",
+            "author": {
+                "name": "William Quinn"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-03T17:32:52-06:00",
+            "date_modified": "2026-01-03T17:32:52-06:00"
+        }
+    ]
+}
